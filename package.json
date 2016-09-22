@@ -1,5 +1,5 @@
 {
-  "name": "ncs",
+  "name": "dhni-ncs",
   "description": "Forked Boilerplate for Nodes components",
   "main": "index.js",
   "scripts": {

@@ -16,7 +16,7 @@ git init
 git config user.name "Dennis Haulund Nielsen"
 git config user.email "dhni@nodes.dk"
 
-git remote add upstream "https://$GH_TOKEN@github.com/nodes-frontend/nodes-component-starter.git"
+git remote add upstream "https://$GH_TOKEN@github.com/dennishn/ncs.git"
 git fetch upstream
 git reset upstream/gh-pages
 
