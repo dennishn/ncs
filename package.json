@@ -1,6 +1,5 @@
 {
   "name": "ncs",
-  "version": "0.0.0-semantically-released",
   "description": "Forked Boilerplate for Nodes components",
   "main": "index.js",
   "scripts": {
